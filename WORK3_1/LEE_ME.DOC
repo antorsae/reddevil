@@ -1,0 +1,34 @@
+                    Red Devil Working Disk 3.0
+
+     El disco arranca desde boot sector (Tos 1.6) y los  controles 
+son los siguientes:
+
+     F1- DEVPAC 2.23
+     F2- DEVPAC 2.23 Developer
+     F3- MONST (GEM)
+     F4- DEGAS ELITE
+     F5- CYBERPAINT 2
+     F6- GFA BASIC 3.5F
+     F7- FAST COPY 3
+     F8- DISC DOCTOR
+     F9- GEM
+
+     F10- MONST+ (desde Command.prg en $E0000)
+
+     Si  pulsamos  una  tecla cargaremos (por  defecto)  el  DEGAS 
+ELITE.
+     El Boot lleva un peque¤o antivirus que borra el virus y  hace 
+un RESET automaticamente en caso de infeccion.
+     Para  usuarios  con  Tos inferior a la  1.6  es  recomendable 
+borrar el BOOT SECTOR,  por ejemplo,  inyectando el AntiVirus  2.2 
+suministrado en el disco.
+     NUNCA utilizar la opcion de grabar desktop...  pues se podria 
+perder el arranque.
+     El  programa  XBOOT.PRG  sirve para cargar  el  bootsector  y 
+ejecutarlo,  es ideal para trabajar con el Monst con programas por 
+sectores.
+
+     Espero que el disco sea util y comodo, un saludo;
+
+                                        Red Devil!
+

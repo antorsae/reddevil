@@ -1,0 +1,44 @@
+START
+ MOVE.L A7,A5
+ MOVE.L #$77FFE,A7
+ MOVE.L 4(A5),A5
+ MOVE.L $C(A5),D0
+ ADD.L $14(A5),D0
+ ADD.L $1C(A5),D0
+ ADD.L #$100,D0
+ MOVE.L D0,-(SP)
+ MOVE.L A5,-(SP)
+ CLR.W -(SP)
+ MOVE.W #$4A,-(SP)
+ TRAP #1
+ ADD.L #12,SP
+ CLR.L -(SP)
+ MOVE.W #$20,-(SP)
+ TRAP #1
+ ADDQ.L #6,SP
+ CLR.W -(SP)
+ PEA -1
+ PEA -1
+ MOVE.W #5,-(SP)
+ TRAP #14
+ ADD.L #12,SP
+ DC.W $A00A
+ MOVE.L $84,VAL_VECT+2
+ LEA G,A0
+ LEA $2000,A1
+ MOVE.W #550,D0
+BUC3:
+ MOVE.B (A0)+,(A1)+
+ DBRA D0,BUC3 
+ MOVE.L #$2002,$84
+ PEA texto(pc)
+ move.w #9,-(sp)
+ trap #1
+ addq.l #6,sp
+ move.w #7,-(sp)
+ trap #1
+ addq.l #2,sp
+ PEA HANDLE
+ PEA HANDLE
+ PEA FILE
+ C

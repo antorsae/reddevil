@@ -1,0 +1,53 @@
+' FRAY-BOLZANO: RESOLUCION DEL TEOREMA
+' GENERA UN ENTORNO DE CENTRO a Y RADIO
+' p Y A PARTIR DE AHI VA CERRANDO EL
+' ENTORNO....
+' V -1.0  (C) 1990 ANDRES TORRUBIA!
+INPUT "MARGEN PARA COGER AL VALOR DE B (NORMAL=1)";p
+a=0
+interva
+DO
+  LOCATE 10,10
+  PRINT "INTERVALO: [";a;",";b;"]    "
+  PRINT "           VALOR APROXIMADO:[";@fun(b);"]    "
+  cierra
+LOOP
+PROCEDURE interva
+  ba=p
+  b=a+p
+  IF @fun(a)>0 THEN
+    sig1=0
+    sig2=1
+  ELSE
+    sig1=1
+    sig2=0
+  ENDIF
+  REPEAT
+    ADD ba,p
+    IF b<a THEN
+      ADD b,ba
+    ELSE
+      SUB b,ba
+    ENDIF
+  UNTIL (@fun(b)>0 AND sig1=1) OR (@fun(b)<0 AND sig1=0)
+  ordena
+RETURN
+PROCEDURE cierra
+  m=(a+b)/2
+  v=@fun(m)
+  IF (v>0 AND sig1=0) OR (v<0 AND sig1=1) THEN
+    a=m
+  ELSE
+    b=m
+  ENDIF
+RETURN
+PROCEDURE ordena
+  IF a>b THEN
+    SWAP a,b
+    SWAP sig1,sig2
+  ENDIF
+RETURN
+FUNCTION fun(x)
+  vk=(x^3)+(x^2)+x+2
+  RETURN vk
+ENDFUNC

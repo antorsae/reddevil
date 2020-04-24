@@ -1,0 +1,249 @@
+0660103030566
+9[....................................................]
+€    
+     CodigosparaelRocketRanger(DECODERWHEEL).
+     
+     Elordenentodaseselsiguiente:
+
+     ALGERIA       KENYA                    
+     ARABIA         LIBYA                    
+     ATLANTIC       MIDEAST                
+     BRAZIL        NIGERIA                
+     CANADA        PERSIA                  
+     COLOMBIA       PERU                     
+     CONGO          SCANDINAVIA        
+     E.AFRICA    SPAIN                    
+     EGYPT          SUDAN                    
+     ENGLAND        USA                        
+     FRANCE         USSR                      
+     GERMANY        VENEZUELA            
+     ITALY          WESTAFRICA        
+                    YUGOSLAVIA          
+
+     Comenzamosconlasdistancias:
+
+     Desde... 
+          -ALGERIA-
+    ALGERIA0    KENYA       33
+     ARABIA  26    LIBYA          12
+     ATLANTIC37    MIDEAST        25
+     BRAZIL  43   NIGERIA         14
+     CANADA  65    PERSIA         37
+     COLOMBIA 52    PERU           55     
+     CONGO    26    SCANDINAVIA    31
+     E.AFRICA 32SPAIN          11
+     EGYPT    20    SUDAN          23
+     ENGLAND  21    USA            61
+     FRANCE   15    USSR           35
+     GERMANY  19    VENEZUELA      46
+     ITALY    13    WESTAFRICA    10
+                    YUGOSLAVIA     18 
+
+          -ARABIA-
+
+    ALGERIA 36    KENYA       20          
+     ARABIA    0    LIBYA        22          
+     ATLANTIC 61    MIDEAST      14        
+     BRAZIL  73    NIGERIA      27        
+     CANADA  96    PERSIA        8         
+     COLOMBIA 84    PERU         87          
+     CONGO    23    SCANDINAVIA  43    
+     E.AFRICA11  SPAIN        41          
+     EGYPT    12    SUDAN        13         
+     ENGLAND  46    USA          95            
+     FRANCE   37    USSR         29           
+     GERMANY  34    VENEZUELA    78      
+     ITALY    30    WESTAFRICA  39    
+                    YUGOSLAVIA   26             
+
+          -ATLANTIC-
+
+     ALGERIA 27    KENYA        58          
+     ARABIA   61    LIBYA        39          
+     ATLANTIC  0    MIDEAST      52        
+     BRAZIL  26    NIGERIA      40        
+     CANADA  30    PERSIA       63         
+     COLOMBIA 29    PERU         36         
+     CONGO    50    SCANDINAVIA  45    
+     E.AFRICA59  SPAIN        22          
+     EGYPT    47    SUDAN        53          
+     ENGLAND  24    USA          31            
+     FRANCE   28    USSR         57           
+     GERMANY  37    VENEZUELA    23      
+     ITALY    35    WESTAFRICA  25    
+                    YUGOSLAVIA   41
+
+          -BRAZIL-
+
+   ALGERIA 43    KENYA        63          
+     ARABIA   73    LIBYA        53          
+     ATLANTIC 26    MIDEAST      68        
+     BRAZIL   0    NIGERIA      47        
+     CANADA  52    PERSIA       78         
+     COLOMBIA 17    PERU         15          
+     CONGO    54    SCANDINAVIA  69    
+     E.AFRICA67  SPAIN        45          
+     EGYPT    62    SUDAN        59          
+     ENGLAND  50    USA          41            
+     FRANCE   51    USSR         77           
+     GERMANY  60    VENEZUELA    14      
+     ITALY    55    WESTAFRICA  36    
+                    YUGOSLAVIA   61
+
+          -CANADA-
+
+     ALGERIA 65    KENYA        96          
+     ARABIA   98    LIBYA        77          
+     ATLANTIC 30    MIDEAST      87        
+     BRAZIL  52    NIGERIA      78        
+     CANADA   0    PERSIA       99         
+     COLOMBIA 38    PERU         47          
+     CONGO    88    SCANDINAVIA  66    
+     E.AFRICA 97 SPAIN        57          
+     EGYPT     84   SUDAN        89          
+     ENGLAND   55   USA          13            
+     FRANCE    61   USSR         86           
+     GERMANY   68   VENEZUELA    37      
+     ITALY     69   WESTAFRICA  64    
+                    YUGOSLAVIA   75
+
+          -COLOMBIA-
+
+   ALGERIA  52   KENYA        76          
+     ARABIA    84   LIBYA        64          
+     ATLANTIC  29   MIDEAST      78        
+     BRAZIL   17   NIGERIA      60        
+     CANADA   38   PERSIA       89         
+     COLOMBIA   0   PERU         10          
+     CONGO     67   SCANDINAVIA  72    
+     E.AFRICA 61 SPAIN        50          
+     EGYPT     71   SUDAN        70          
+     ENGLAND   56   USA          26            
+     FRANCE    57   USSR         85         
+     GERMANY   66   VENEZUELA     6      
+     ITALY     62   WESTAFRICA  46    
+                    YUGOSLAVIA   69
+
+          -CONGO-
+
+    ALGERIA 26    KENYA         9          
+     ARABIA   23    LIBYA        21          
+     ATLANTIC 50    MIDEAST      27        
+     BRAZIL  54    NIGERIA      17        
+     CANADA  88    PERSIA       33         
+     COLOMBIA 67    PERU         66          
+     CONGO     0    SCANDINAVIA  53    
+     E.AFRICA16  SPAIN        38          
+     EGYPT    24    SUDAN         8          
+     ENGLAND  47    USA          83            
+     FRANCE   39    USSR         46           
+     GERMANY  40    VENEZUELA    62      
+     ITALY    34    WESTAFRICA  22    
+                    YUGOSLAVIA   35
+
+          -EASTAFRICA-
+
+    ALGERIA 32    KENYA        10          
+     ARABIA   11    LIBYA        23          
+     ATLANTIC 59    MIDEAST      20        
+     BRAZIL  67    NIGERIA      21        
+     CANADA  97    PERSIA       18         
+     COLOMBIA 81    PERU         80          
+     CONGO    16    SCANDINAVIA  48    
+     E.AFRICA 0  SPAIN        46          
+     EGYPT    14    SUDAN         9          
+     ENGLAND  49    USA          93            
+     FRANCE   40    USSR         36           
+     GERMANY  38    VENEZUELA    75      
+     ITALY    33    WESTAFRICA  35    
+                    YUGOSLAVIA   30    
+
+
+
+
+          -EGYPT-
+
+   ‚€ALGERIA 20    KENYA       21           
+     ARABIA   12    LIBYA        8           
+     ATLANTIC 47    MIDEAST     11         
+     BRAZIL  62    NIGERIA     13         
+     CANADA  84    PERSIA      17          
+     COLOMBIA 71    PERU        75           
+     CONGO    24    SCANDINAVIA 34     
+     E.AFRICA14  SPAIN       28           
+     EGYPT     0    SUDAN       10           
+     ENGLAND  33    USA         81             
+     FRANCE   25    USSR        26            
+     GERMANY  23    VENEZUELA   66       
+     ITALY    18    WESTAFRICA 27     
+                    YUGOSLAVIA  15      
+
+          -ENGLAND-
+
+    ALGERIA 21    KENYA       52           
+     ARABIA   46    LIBYA       27           
+     ATLANTIC 24    MIDEAST     36         
+     BRAZIL  50    NIGERIA     35         
+     CANADA  55    PERSIA      45          
+     COLOMBIA 56    PERU        64           
+     CONGO    47    SCANDINAVIA 16     
+     E.AFRICA49  SPAIN       10           
+     EGYPT    33    SUDAN       41           
+     ENGLAND   0    USA         57             
+     FRANCE   9    USSR        32            
+     GERMANY 12    VENEZUELA   53       
+     ITALY   15    WESTAFRICA 31     
+                    YUGOSLAVIA  20 
+
+          -FRANCE-
+
+    ALGERIA 15   KENYA       42           
+     ARABIA   37    LIBYA       19           
+     ATLANTIC 28    MIDEAST     26         
+     BRAZIL  51    NIGERIA     24         
+     CANADA  61    PERSIA      38          
+     COLOMBIA 57    PERU        63           
+     CONGO    39    SCANDINAVIA 18     
+     E.AFRICA40  SPAIN       8           
+     EGYPT    25    SUDAN       33           
+     ENGLAND  9    USA         60             
+     FRANCE    0    USSR        27            
+     GERMANY  10    VENEZUELA   52       
+     ITALY     5    WESTAFRICA 23     
+                    YUGOSLAVIA  14 
+
+          -GERAMANY-
+
+    ALGERIA  19   KENYA       43           
+     ARABIA   34    LIBYA       17           
+     ATLANTIC 37    MIDEAST     21         
+     BRAZIL  60    NIGERIA     29         
+     CANADA  68    PERSIA      32          
+     COLOMBIA 66    PERU        72           
+     CONGO    40    SCANDINAVIA 13     
+     E.AFRICA38  SPAIN       15           
+     EGYPT    23    SUDAN       31           
+     ENGLAND  12    USA         69             
+     FRANCE   10    USSR        20            
+     GERMANY   0    VENEZUELA   61       
+     ITALY     6    WESTAFRICA 30     
+                    YUGOSLAVIA   8 
+
+          -ITALY-
+
+    ALGERIA 13    KENYA       38           
+     ARABIA   30    LIBYA       10           
+     ATLANTIC 35    MIDEAST     19         
+     BRAZIL  55    NIGERIA     22         
+     CANADA  69    PERSIA      31          
+     COLOMBIA 62    PERU        68           
+     CONGO    34    SCANDINAVIA 20     
+     E.AFRICA33  SPAIN       12           
+     EGYPT    18    SUDAN       26           
+     ENGLAND  15    USA         67             
+     FRANCE   5    USSR        23            
+     GERMANY   6    VENEZUELA   56       
+     ITALY     0    WESTAFRICA 24     
+                    YUGOSLAVIA   7 
+
+          
